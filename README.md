@@ -30,7 +30,7 @@ The project addresses a range of questions, including:
 
 - **Location by State:** We examine the distribution of employees across locations by state, shedding light on the company's regional presence.
 
-- **Time Trends:** We investigate changes in employee count over time based on hire and term dates.
+- **Time Trends:** We investigate changes in employee count over time-based on hire and term dates.
 
 - **Tenure by Department:** We aim to assess the distribution of employee tenure within each department.
 
@@ -38,9 +38,7 @@ The project addresses a range of questions, including:
 
 This repository contains the following components:
 
-- **SQL Queries:** Explore the SQL queries provided in the `sql_queries.sql` file to reproduce the analyses presented in the project.
-
-- **Data:** Find the sample employee data used in the `employee_data.csv` file. This dataset drives our analyses.
+- **Data:** Find the sample employee data used in the `[employee_data.csv](https://github.com/simeonowolabi/HR_Report_Project/blob/main/HR_RAW%20Data.csv)` file. This dataset drives our analyses.
 
 - **Insights:** Review the project insights and answers to key questions in the README.
 
