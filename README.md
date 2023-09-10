@@ -4,7 +4,7 @@ Welcome to the HR Analytics Project repository! This project aims to provide val
 
 ## Project Overview
 
-In this project, we explore a dataset containing employee records from an HR department. The dataset includes information such as employee demographics, job titles, departments, locations, hire dates, and even termination dates where applicable. By leveraging SQL queries and data analysis techniques, we aim to answer insightful questions about the workforce.
+In this project, I explore a dataset containing employee records from an HR department. The dataset includes information such as employee demographics, job titles, departments, locations, hire dates, and even termination dates where applicable. By leveraging SQL queries and data analysis techniques, the aim is to answer insightful questions about the workforce.
 
 ## HR_Visualization_Dashboard
 
@@ -14,25 +14,25 @@ In this project, we explore a dataset containing employee records from an HR dep
 
 The project addresses a range of questions, including:
 
-- **Gender and Diversity:** We examine the gender breakdown and the distribution of employees across different races/ethnicities to assess the company's diversity.
+- **Gender and Diversity:** I examine the gender breakdown and the distribution of employees across different races/ethnicities to assess the company's diversity.
 
-- **Age Distribution:** We analyze the age distribution of employees to understand the generational composition of the workforce.
+- **Age Distribution:** I analyze the age distribution of employees to understand the generational composition of the workforce.
 
-- **Location:** We investigate the number of employees at headquarters versus remote locations, highlighting the company's geographical presence.
+- **Location:** I investigate the number of employees at headquarters versus remote locations, highlighting the company's geographical presence.
 
-- **Employee Tenure:** By calculating average employment length for terminated employees, we gain insights into the average length of employment and potential turnover patterns.
+- **Employee Tenure:** By calculating the average employment length for terminated employees, I gain insights into the average length of employment and potential turnover patterns.
 
-- **Gender and Departments:** We explore gender distribution across departments and job titles, identifying possible gender imbalances within specific roles.
+- **Gender and Departments:** I explore gender distribution across departments and job titles, identifying possible gender imbalances within specific roles.
 
-- **Job Titles:** We look at the distribution of job titles to understand the roles employees hold within the organization.
+- **Job Titles:** I look at the distribution of job titles to understand the roles employees hold within the organization.
 
-- **Turnover Rate:** While a comprehensive turnover rate calculation requires more data, we identify departments with potential high turnover based on term dates.
+- **Turnover Rate:** While a comprehensive turnover rate calculation requires more data, I identify departments with potential high turnover based on term dates.
 
-- **Location by State:** We examine the distribution of employees across locations by state, shedding light on the company's regional presence.
+- **Location by State:** I examine the distribution of employees across locations by state, shedding light on the company's regional presence.
 
-- **Time Trends:** We investigate changes in employee count over time-based on hire and term dates.
+- **Time Trends:** I investigate changes in employee count over time based on hire and term dates.
 
-- **Tenure by Department:** We aim to assess the distribution of employee tenure within each department.
+- **Tenure by Department:** I aim to assess the distribution of employee tenure within each department.
 
 ## How to Use This Repository
 
@@ -48,7 +48,7 @@ This repository contains the following components:
 
 2. Open the `sql_queries.sql` file to access the SQL queries used for data analysis.
 
-3. Review the `employee_data.csv` file to understand the dataset structure.
+3. Review the `[employee_data.csv](https://github.com/simeonowolabi/HR_Report_Project/blob/main/HR_RAW%20Data.csv)` file to understand the dataset structure.
 
 4. Explore the insights and analysis in the project's README.
 
