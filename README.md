@@ -8,7 +8,7 @@ In this project, I explore a dataset containing employee records from an HR depa
 
 ## HR_Visualization_Dashboard
 
-![Makedown image](https://github.com/MasterOluwasegun/HR_Report_Project/blob/main/HR_visualization_Dashboard.png?raw=true)
+![Makedown image] (https://github.com/MasterOluwasegun/HR_Report_Project/blob/main/HR_visualization_Dashboard.png?raw=true)
 
 ## Key Questions Explored
 
